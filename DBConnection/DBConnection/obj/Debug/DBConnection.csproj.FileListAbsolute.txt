@@ -1,0 +1,9 @@
+D:\Projects Dotnet-2022\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+D:\Projects Dotnet-2022\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+D:\Projects Dotnet-2022\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+D:\Projects Dotnet-2022\DBConnection\DBConnection\obj\Debug\DBConnection.csprojResolveAssemblyReference.cache
+D:\Projects Dotnet-2022\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+D:\Projects Dotnet-2022\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+D:\Projects Dotnet-2022\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.Cache
+D:\Projects Dotnet-2022\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+D:\Projects Dotnet-2022\DBConnection\DBConnection\obj\Debug\DBConnection.pdb

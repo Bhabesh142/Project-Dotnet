@@ -1,0 +1,13 @@
+D:\PROJECTS 2022-DotNET\Form1\Form1\bin\Debug\Form1.exe.config
+D:\PROJECTS 2022-DotNET\Form1\Form1\bin\Debug\Form1.exe
+D:\PROJECTS 2022-DotNET\Form1\Form1\bin\Debug\Form1.pdb
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.Form1.resources
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.exe
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.pdb
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.Form2.resources
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.FormDesign.resources
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.FormContainer.resources
+D:\PROJECTS 2022-DotNET\Form1\Form1\obj\Debug\Form1.FormPanel.resources

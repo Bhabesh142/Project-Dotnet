@@ -1,0 +1,3 @@
+D:\PROJECTS 2022-DotNET\WindowsFormApp\Form1\bin\Debug\Form1.exe.config
+D:\PROJECTS 2022-DotNET\WindowsFormApp\Form1\obj\Debug\Form1.exe
+D:\PROJECTS 2022-DotNET\WindowsFormApp\Form1\obj\Debug\Form1.pdb

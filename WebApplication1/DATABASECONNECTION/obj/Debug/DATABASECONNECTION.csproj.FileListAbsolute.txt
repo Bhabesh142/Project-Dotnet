@@ -1,0 +1,5 @@
+D:\Projects Dotnet-2022\WebApplication1\DATABASECONNECTION\bin\DATABASECONNECTION.dll
+D:\Projects Dotnet-2022\WebApplication1\DATABASECONNECTION\bin\DATABASECONNECTION.pdb
+D:\Projects Dotnet-2022\WebApplication1\DATABASECONNECTION\obj\Debug\DATABASECONNECTION.csprojResolveAssemblyReference.cache
+D:\Projects Dotnet-2022\WebApplication1\DATABASECONNECTION\obj\Debug\DATABASECONNECTION.dll
+D:\Projects Dotnet-2022\WebApplication1\DATABASECONNECTION\obj\Debug\DATABASECONNECTION.pdb
